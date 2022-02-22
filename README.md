@@ -1,1 +1,2 @@
-# Blender Models with LOD, Collider, and Textures
+# Blender Models, Textures, Meshes
+## includes LOD, mesh colliders
